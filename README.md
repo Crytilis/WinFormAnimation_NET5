@@ -82,7 +82,7 @@ animator.Play(new SafeInvoker<float>(CustomSetMethod), new SafeInvoker(() =>
 
 ## Demo
 Check the 'WinFormAnimation_NET5.Samples' project for simple usage examples.
-![Screenshot](/screenshot.gif?raw=true "Screenshot")
+![Screenshot](/preview.gif?raw=true "Preview")
 
 ## License
 The MIT License (MIT)

@@ -1,7 +1,6 @@
 # <img src="WinFormAnimation_NET5/Icon.png" width="42" alt="Icon"> WinForm Animation Library [NET5]
-[![](https://img.shields.io/github/license/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/blob/master/LICENSE)
-[![](https://img.shields.io/github/commit-activity/y/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/commits/master)
-[![](https://img.shields.io/github/issues/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/issues)
+![GitHub](https://img.shields.io/github/license/crytilis/WinFormAnimation_NET5)
+![GitHub issues](https://img.shields.io/github/issues/crytilis/WinFormAnimation_NET5)
 
 A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET5 is Key frame (Path) based and fully customizable. 
 *Original .NET Framework project was created by Soroush Falahati*

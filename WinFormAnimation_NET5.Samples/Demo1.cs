@@ -5,7 +5,7 @@ namespace WinFormAnimation_NET5.Samples
 {
     internal partial class Demo1 : UserControl
     {
-        private readonly Animator _animator = new Animator();
+        private readonly Animator _animator = new();
 
         public Demo1()
         {

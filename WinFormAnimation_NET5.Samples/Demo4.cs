@@ -7,9 +7,9 @@ namespace WinFormAnimation_NET5.Samples
 {
     internal partial class Demo4 : UserControl
     {
-        private readonly List<Animator> _animators = new List<Animator>();
+        private readonly List<Animator> _animators = new();
         private readonly Process _currentProcess = Process.GetCurrentProcess();
-        private readonly Stopwatch _stopWatch = new Stopwatch();
+        private readonly Stopwatch _stopWatch = new();
         private int _cpuUsage;
         private int _endedAnimations;
         private int _frameHits;

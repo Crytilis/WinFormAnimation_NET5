@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormAnimation_NET5", "WinFormAnimation_NET5\WinFormAnimation_NET5.csproj", "{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormAnimation_NET5.Samples", "WinFormAnimation_NET5.Samples\WinFormAnimation_NET5.Samples.csproj", "{D3672268-5CBE-49F3-A8AD-169AE88B45E3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900} = {F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5153BAC6-D75B-4D23-A4E2-51DAC84E7684}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9905C5C-6ED1-426F-AE6D-0D98F0FC7900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3672268-5CBE-49F3-A8AD-169AE88B45E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3672268-5CBE-49F3-A8AD-169AE88B45E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3672268-5CBE-49F3-A8AD-169AE88B45E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3672268-5CBE-49F3-A8AD-169AE88B45E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F0D8FB-6039-4BC7-95D2-5CBFB9845F1C}
+	EndGlobalSection
+EndGlobal

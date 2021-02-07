@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>WinFormAnimation-NET5</PackageId>
+    <Version>2.0.0</Version>
+    <Authors>Jason Thompson</Authors>
+    <Product>WinFormAnimation-NET5</Product>
+    <Description>A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET5 is Key frame (Path) based and fully customizable. 
+
+Original .NET Framework project was created by Soroush Falahati</Description>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <Copyright>2021 Jason Thompson</Copyright>
+    <PackageIcon>Icon.png</PackageIcon>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageTags>Animation, Windows Forms, WinForm, WinForms, Animated, Animated Controls, NET5</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LICENSE" />
+    <None Include="Icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

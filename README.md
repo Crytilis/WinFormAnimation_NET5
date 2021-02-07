@@ -1,16 +1,15 @@
 # <img src="WinFormAnimation_NET5/Icon.png" width="42" alt="Icon"> WinForm Animation Library [NET5]
-[![](https://img.shields.io/github/license/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/blob/master/LICENSE)
-[![](https://img.shields.io/github/commit-activity/y/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/commits/master)
-[![](https://img.shields.io/github/issues/crytilis/WinFormAnimation_NET5.svg?style=flat-square)](https://github.com/crytilis/WinFormAnimation_NET5/issues)
+[![GitHub](https://img.shields.io/github/license/crytilis/WinFormAnimation_NET5)](https://github.com/Crytilis/WinFormAnimation_NET5/blob/master/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues/crytilis/WinFormAnimation_NET5)](https://github.com/Crytilis/WinFormAnimation_NET5/issues)
 
-A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET5 is Key frame (Path) based and fully customizable. 
+A simple library for animating controls and values in Windows Form projects. WinFormAnimation_NET5 is Key frame (Path) based and fully customizable. 
 *Original .NET Framework project was created by Soroush Falahati*
 
 *Please note that even though this library designed for WinForm but its usage is not limited to WinForm and can be used in other environments. Only reference of the library is to 'System.Drawing' name space.*
 
 ## How to get
-[![](https://img.shields.io/nuget/dt/WinFormAnimation_NET5.svg?style=flat-square)](https://www.nuget.org/packages/WinFormAnimation_NET5)
-[![](https://img.shields.io/nuget/v/WinFormAnimation_NET5.svg?style=flat-square)](https://www.nuget.org/packages/WinFormAnimation_NET5)
+[![Nuget](https://img.shields.io/nuget/dt/WinFormAnimation-NET5?color=blue)](https://www.nuget.org/packages/WinFormAnimation-NET5)
+[![Nuget](https://img.shields.io/nuget/v/WinFormAnimation-NET5)](https://www.nuget.org/packages/WinFormAnimation-NET5)
 
 This library is available as a NuGet package at [nuget.org](https://www.nuget.org/packages/WinFormAnimation_NET5/).
 

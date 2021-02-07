@@ -8,7 +8,7 @@ A simple library for animating controls and values in Windows Form projects. Win
 *Please note that even though this library designed for WinForm but its usage is not limited to WinForm and can be used in other environments. Only reference of the library is to 'System.Drawing' name space.*
 
 ## How to get
-[![Nuget](https://img.shields.io/nuget/dt/WinFormAnimation-NET5)](https://www.nuget.org/packages/WinFormAnimation-NET5)
+[![Nuget](https://img.shields.io/nuget/dt/WinFormAnimation-NET5?color=blue)](https://www.nuget.org/packages/WinFormAnimation-NET5)
 [![Nuget](https://img.shields.io/nuget/v/WinFormAnimation-NET5)](https://www.nuget.org/packages/WinFormAnimation-NET5)
 
 This library is available as a NuGet package at [nuget.org](https://www.nuget.org/packages/WinFormAnimation_NET5/).

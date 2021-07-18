@@ -6,9 +6,7 @@
     <Version>2.0.1</Version>
     <Authors>Jason Thompson</Authors>
     <Product>WinFormAnimation-NET</Product>
-    <Description>A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET is Key frame (Path) based and fully customizable. 
-
-Original .NET Framework project was created by Soroush Falahati</Description>
+    <Description>A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET is Key frame (Path) based and fully customizable. Original .NET Framework project was created by Soroush Falahati</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <Copyright>2021 Jason Thompson</Copyright>
     <PackageIcon>Icon.png</PackageIcon>
@@ -17,6 +15,7 @@ Original .NET Framework project was created by Soroush Falahati</Description>
     <RepositoryUrl>https://github.com/Crytilis/WinFormAnimation_NET5</RepositoryUrl>
     <PackageReleaseNotes>Refactored and Moved to NET5/6</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

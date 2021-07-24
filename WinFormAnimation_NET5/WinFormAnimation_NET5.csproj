@@ -1,22 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <PackageId>WinFormAnimation-NET5</PackageId>
-    <Version>2.0.0</Version>
+    <TargetFrameworks>net35;net40;net45;net451;net452;net46;net461;net462;net47;net471;net472;net48;netcoreapp3.1;net5.0-windows;net6.0-windows</TargetFrameworks>
+    <PackageId>WinFormAnimation-NET</PackageId>
+    <Version>2.0.1</Version>
     <Authors>Jason Thompson</Authors>
-    <Product>WinFormAnimation-NET5</Product>
-    <Description>A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET5 is Key frame (Path) based and fully customizable. 
-
-Original .NET Framework project was created by Soroush Falahati</Description>
+    <Product>WinFormAnimation-NET</Product>
+    <Description>A simple library for animating controls and values in Windows Form projects. WinFormAnimation-NET is Key frame (Path) based and fully customizable. Original .NET Framework project was created by Soroush Falahati</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <Copyright>2021 Jason Thompson</Copyright>
     <PackageIcon>Icon.png</PackageIcon>
     <NeutralLanguage>en-US</NeutralLanguage>
     <PackageTags>Animation, Windows Forms, WinForm, WinForms, Animated, Animated Controls, NET5</PackageTags>
     <RepositoryUrl>https://github.com/Crytilis/WinFormAnimation_NET5</RepositoryUrl>
-    <PackageReleaseNotes>Refactored and Moved to NET5</PackageReleaseNotes>
+    <PackageReleaseNotes>Refactored and Moved to NET5/6</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

@@ -5,6 +5,7 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>WinFormAnimation_NET5.Samples</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
